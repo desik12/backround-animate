@@ -217,4 +217,4 @@
 ```
     
   ## ✅ Resultado
-  ![Resultado](https://im4.ezgif.com/tmp/ezgif-4-88f9b4ef77.gif)
+  ![Resultado](https://i.imgur.com/jqZjPMr.png)
